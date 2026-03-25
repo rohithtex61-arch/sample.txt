@@ -1,3 +1,6 @@
+NAME: ROHITH V
+REG NO: 922525106259
+DEPT: ECE-E
 #  My First GitHub Repository
 
 ##  About This Project

@@ -1,1 +1,12 @@
+My First GitHub Project
 
+This is a simple text file created to understand how files work in a GitHub repository.
+
+Purpose:
+- To practice file creation
+- To upload files to GitHub
+- To learn version control basics
+
+This project is part of my learning journey in software development.
+
+Thank you!
